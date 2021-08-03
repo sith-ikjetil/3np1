@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/python3
 #: Title       : 3np1 main program
 #: Date        : 2021-08-03
 #: Author      : "Kjetil Kristoffer Solberg" <post@ikjetil.no>
