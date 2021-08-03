@@ -17,13 +17,13 @@ class ItsMath:
         return True
 
     @staticmethod
-    def isEven(n):
+    def IsEven(n):
         if (n % 2) == 0:
             return True
         return False
         
     @staticmethod
-    def isOdd(n):
+    def IsOdd(n):
         if (n %2) != 0:
             return True
         return False
