@@ -38,7 +38,7 @@ def main():
             else:
                 print("Number is odd") 
     except ValueError:
-        print("> Invalid <start number> <")
+        print("> Invalid <number> <")
         PrintUsage()
     except KeyboardInterrupt:
         print("> Program Interrupted <")
